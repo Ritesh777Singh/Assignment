@@ -1,1 +1,31 @@
 
+Q3] what is sdlc explain  each  phase of sdlc?
+
+ans] Sdlc is system development lif cycle
+In systems engineering, information systems and software engineering, the systems development life cycle, also referred to as the application development life cycle, is a process for planning, creating, testing, and deploying an information system. 
+
+sdlc phase 7phase.
+1.Planning
+The first stage of SDLC is all about “What do we want?” Project planning is a vital role in the software delivery lifecycle since this is the part where the team estimates the cost and defines the requirements of the new software.
+
+2.Gathering Requirements
+The second step of SDLC is gathering maximum information from the client requirements for the product. 
+
+3.Design
+In this phase, the software design is created, which includes the overall architecture of the software, data structures, and interfaces.
+It has two steps:
+High-level design (HLD): It gives the architecture of software products.
+Low-level design (LLD): It describes how each and every feature in the product should work and every component.
+
+4.Coding
+In this phase Software design is translated into source code.All the components of the software are implemented in this phase.
+
+5.Testing
+In this phase, the developed software is tested thoroughly and any defects found are assigned to developers to get them fixed.
+
+6.Deployment
+After successful testing, The software is deployed to a production environment and made available to end-users.
+
+7.Maintenance
+After the deployment of a product on the production environment, maintenance of the product i.e. if any issue comes up and needs to be fixed or any enhancement is to be done is taken care by the developers.
+
